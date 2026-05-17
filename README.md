@@ -23,9 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video width="300" autoplay loop muted playsinline>
-    <source src="https://i.imgur.com/B1eY84o.mp4" type="video/mp4">
-</video>
+<img src="https://i.imgur.com/B1eY84o.gif"
+     title="Video Walkthrough"
+     width="300"
+     alt="Video Walkthrough" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
